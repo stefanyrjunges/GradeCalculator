@@ -17,13 +17,13 @@ their overall performance.
 <h3>What can be found in the code</h3>
 <p align="justify">
 <li>A Graphical User Interface using java Swing, including labels, text fields and buttons;</li>
-<li>Retrieving user input with java Scanner;</li>
-<li>Customizing the interface with GridLayout, BorderLayout and Horizontal Srut;</li>
+<li>Java Scanner to retrieve user input;</li>
+<li>GridLayout, BorderLayout and Horizontal Srut to customize the interface;</li>
 <li>Message box to display a warning to the user;</li>
 <li>ActionListener for two buttons;</li>
 <li>Calculation or clearing text fields depending on which button is pressed;</li>
-<li>Parsing strings;</li>
-<li>Replacing commas with dots in the user input.</li>
+<li>parseDouble() method to convert a string to a double;</li>
+<li>replace() method to replace commas with dots in the user input.</li>
 </p>
 
 <h3>Preview</h3>
